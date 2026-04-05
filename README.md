@@ -55,7 +55,7 @@ Gli script utilizzano i dati estratti dal dataset **BAR (Barberini Art Recogniti
 
 ---
 
-🏆 Risultati Principali
+## 🏆 Risultati Principali
 Accuratezza Intra-Device: Il Random Forest raggiunge un'accuratezza del 99.78%, superando la baseline k-NN del +12.7 p.p.
 Robustezza ai Guasti: Il sistema mantiene un'accuratezza >84% anche a fronte di un collasso infrastrutturale dell'11% dei sensori.
 Sensor Fusion: Il Ceiling Effect dimostra che l'uso dei sensori inerziali apporta un guadagno trascurabile (+0.07%), validando la scelta energeticamente efficiente del solo segnale radio BLE.
